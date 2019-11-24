@@ -1,0 +1,3 @@
+C:\Users\Sandrine\RiderProjects\salariesApp\salariesApp\obj\Debug\netcoreapp3.0\salariesApp.csprojAssemblyReference.cache
+C:\Users\Sandrine\RiderProjects\salariesApp\salariesApp\obj\Debug\netcoreapp3.0\salariesApp.AssemblyInfoInputs.cache
+C:\Users\Sandrine\RiderProjects\salariesApp\salariesApp\obj\Debug\netcoreapp3.0\salariesApp.AssemblyInfo.cs
